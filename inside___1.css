@@ -1,0 +1,1750 @@
+/*
+	@name inside___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1920px; height: 5557px; margin-left: auto; margin-right: auto;  }
+
+#_bg__inside___1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 5557px;
+	background:rgba(255,255,255,255);
+}
+
+#footer {
+	top: 5446px;
+	left: 0px;
+	width: 1920px;
+	height: 111px;
+}
+
+#rectangle_22 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 111px;
+	background:rgba(255,255,255,255);
+}
+
+#contactanos {
+	top: 4369px;
+	left: 0px;
+	width: 1920px;
+	height: 1077px;
+}
+
+#rectangle_21 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1077px;
+	background:rgba(244,246,245,255);
+}
+
+
+#cont_ctanos {
+	top: 164px;
+	left: 555px;
+	width: 345px;
+	height: 82px;
+	font-family: Roboto;
+	font-size: 60px;
+	font-weight: bold;
+	text-align: center;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #707070;
+	text-shadow: 0 0 2px #707070;
+	color:#434343;
+}
+
+
+#tu_opini_n_es_importante_para_nosotros__nos_gustar_a_saber_sobre_ti__si_tienes_dudas_o_comentarios_acerca_de_nuestro_programa__no_dudes_en_escribirnos___te_esperamos_ {
+	top: 256px;
+	left: 565px;
+	width: 763px;
+	height: 92px;
+	font-family: Roboto;
+	font-size: 22px;
+	text-align: left;
+	color:#818181;
+}
+
+
+#rectangle_15 {
+	top: 378px;
+	left: 559px;
+	width: 398px;
+	height: 58px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #b3b3b3;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_16 {
+	top: 379px;
+	left: 966px;
+	width: 398px;
+	height: 58px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #b3b3b3;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_17 {
+	top: 454px;
+	left: 559px;
+	width: 805px;
+	height: 58px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #b3b3b3;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_18 {
+	top: 529px;
+	left: 559px;
+	width: 805px;
+	height: 58px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #b3b3b3;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_19 {
+	top: 604px;
+	left: 559px;
+	width: 805px;
+	height: 287px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #b3b3b3;
+	background:rgba(255,255,255,255);
+}
+
+
+#nombre {
+	top: 394px;
+	left: 600px;
+	width: 90px;
+	height: 34px;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#b3b3b3;
+}
+
+
+#apellido {
+	top: 394px;
+	left: 999px;
+	width: 89px;
+	height: 34px;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#b3b3b3;
+}
+
+
+#asunto {
+	top: 470px;
+	left: 599px;
+	width: 79px;
+	height: 34px;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#b3b3b3;
+}
+
+
+#email {
+	top: 545px;
+	left: 599px;
+	width: 64px;
+	height: 34px;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#b3b3b3;
+}
+
+
+#escriba_su_mensaje_aqui {
+	top: 621px;
+	left: 599px;
+	width: 260px;
+	height: 34px;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#b3b3b3;
+}
+
+
+#rectangle_20 {
+	top: 918px;
+	left: 559px;
+	width: 223px;
+	height: 61px;
+	-ms-border-radius: 31.5px;
+	-o-border-radius: 31.5px;
+	-moz-border-radius: 31.5px;
+	-webkit-border-radius: 31.5px;
+	border-radius: 31.5px;
+	border: 1px solid #707070;
+	background:rgba(228,6,128,255);
+}
+
+
+#enviar {
+	top: 934px;
+	left: 630px;
+	width: 76px;
+	height: 37px;
+	font-family: Roboto;
+	font-size: 26px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#destacados {
+	top: 3288px;
+	left: 0px;
+	width: 1920px;
+	height: 1081px;
+}
+
+#profebg {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 1920px;
+	height: 1081px;
+	background:url(skins/profebg.png);
+	background-size:cover;
+}
+
+
+#nos_gusta_reconocer_a_quienes_hacen_de_inside_una_experiencia_inolvidable_te_presentamos_a_los_expertos_destacados_por_la_comunidad_recientemente {
+	top: 252px;
+	left: 457px;
+	width: 1001px;
+	height: 80px;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: center;
+	color:#818181;
+}
+
+
+#profesionales_destacados {
+	top: 130px;
+	left: 598px;
+	width: 709px;
+	height: 84px;
+	font-family: Roboto;
+	font-size: 60px;
+	font-weight: bold;
+	text-align: center;
+	color:#434343;
+}
+
+#profesional_1 {
+	top: 433px;
+	left: 306px;
+	width: 348px;
+	height: 479px;
+}
+
+#rectangle_12 {
+	top: 108px;
+	left: 0px;
+	width: 348px;
+	height: 371px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#person_3 {
+	top: -6px !important;
+	position: absolute !important;
+	left: 65px;
+	width: 218px;
+	height: 218px;
+	background:url(skins/person_3.png);
+	background-size:cover;
+}
+
+
+#susana_gutierrez {
+	top: 217px;
+	left: 72px;
+	width: 201px;
+	height: 37px;
+	font-family: Roboto;
+	font-size: 26px;
+	text-align: center;
+	color:#434343;
+}
+
+
+#fisioterapeuta___masajista {
+	top: 253px;
+	left: 69px;
+	width: 209px;
+	height: 26px;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: center;
+	color:#818181;
+}
+
+
+#calificaci_n_______4_6___5_ {
+	top: 325px;
+	left: 86px;
+	width: 181px;
+	height: 26px;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#818181;
+}
+
+
+#star {
+	top: 325px !important;
+	position: absolute !important;
+	left: 245px;
+	width: 12px;
+	height: 12px;
+	background:url(skins/star.png);
+	background-size:cover;
+}
+
+#star_2 {
+	top: 325px !important;
+	position: absolute !important;
+	left: 250px;
+	width: 12px;
+	height: 12px;
+	background:url(skins/star.png);
+	background-size:cover;
+}
+
+#star_3 {
+	top: 320px !important;
+	position: absolute !important;
+	left: 255px;
+	width: 12px;
+	height: 12px;
+	background:url(skins/star.png);
+	background-size:cover;
+}
+
+
+#cursos_totales__12 {
+	top: 368px;
+	left: 101px;
+	width: 151px;
+	height: 26px;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#818181;
+}
+
+
+#comentarios__78 {
+	top: 416px;
+	left: 109px;
+	width: 135px;
+	height: 26px;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#818181;
+}
+
+#profesional_2 {
+	top: 433px;
+	left: 786px;
+	width: 348px;
+	height: 479px;
+}
+
+#rectangle_13 {
+	top: 108px;
+	left: 0px;
+	width: 348px;
+	height: 371px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#miranda_castillo {
+	top: 217px;
+	left: 76px;
+	width: 193px;
+	height: 37px;
+	font-family: Roboto;
+	font-size: 26px;
+	text-align: center;
+	color:#434343;
+}
+
+
+#esteticista {
+	top: 253px;
+	left: 130px;
+	width: 87px;
+	height: 26px;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: center;
+	color:#818181;
+}
+
+
+#calificaci_n_______4_4___5_ {
+	top: 325px;
+	left: 86px;
+	width: 181px;
+	height: 26px;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#818181;
+}
+
+
+#star_ek1 {
+	top: 330px !important;
+	position: absolute !important;
+	left: 189px;
+	width: 12px;
+	height: 12px;
+	background:url(skins/star_ek1.png);
+	background-size:cover;
+}
+
+
+#cursos_totales__15 {
+	top: 368px;
+	left: 101px;
+	width: 151px;
+	height: 26px;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#818181;
+}
+
+
+#comentarios__53 {
+	top: 416px;
+	left: 109px;
+	width: 135px;
+	height: 26px;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#818181;
+}
+
+
+#profesional_3 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 74px;
+	width: 200px;
+	height: 200px;
+	background:url(skins/profesional_3.png);
+	background-size:cover;
+}
+
+#profesional_3_ek1 {
+	top: 437px;
+	left: 1266px;
+	width: 348px;
+	height: 475px;
+}
+
+#rectangle_14 {
+	top: 104px;
+	left: 0px;
+	width: 348px;
+	height: 371px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#alicia_contreras {
+	top: 213px;
+	left: 79px;
+	width: 187px;
+	height: 37px;
+	font-family: Roboto;
+	font-size: 26px;
+	text-align: center;
+	color:#434343;
+}
+
+
+#peluquera {
+	top: 249px;
+	left: 132px;
+	width: 83px;
+	height: 26px;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: center;
+	color:#818181;
+}
+
+
+#calificaci_n_______4_2___5_ {
+	top: 321px;
+	left: 86px;
+	width: 181px;
+	height: 26px;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#818181;
+}
+
+
+#star_ek2 {
+	top: 326px !important;
+	position: absolute !important;
+	left: 189px;
+	width: 12px;
+	height: 12px;
+	background:url(skins/star_ek2.png);
+	background-size:cover;
+}
+
+
+#cursos_totales__8 {
+	top: 364px;
+	left: 101px;
+	width: 141px;
+	height: 26px;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#818181;
+}
+
+
+#comentarios__37 {
+	top: 412px;
+	left: 109px;
+	width: 135px;
+	height: 26px;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#818181;
+}
+
+
+#profesional {
+	top: 0px !important;
+	position: absolute !important;
+	left: 68px;
+	width: 200px;
+	height: 195.59912109375px;
+	background:url(skins/profesional.png);
+	background-size:cover;
+}
+
+#por_que_elegirnos {
+	top: 2300px;
+	left: 157px;
+	width: 1589px;
+	height: 864px;
+}
+
+#por_qu__elegirnos {
+	top: 0px;
+	left: 551px;
+	width: 489px;
+	height: 84px;
+	font-family: Roboto;
+	font-size: 60px;
+	font-weight: bold;
+	text-align: center;
+	color:#434343;
+}
+
+
+#en_inside_hacemos_que_tu_recorrido_sea_toda_una_experiencia__cada_uno_de_nuestros_cursos_son_revisados_peri_dicamente_para_ofrecer_contenido_actual__de_calidad_y_sobre_todo__til_ {
+	top: 122px;
+	left: 389px;
+	width: 823px;
+	height: 117px;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: center;
+	color:#818181;
+}
+
+
+#class {
+	top: 316px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 744px;
+	height: 548px;
+	background:url(skins/class.png);
+	background-size:cover;
+}
+
+
+#coursescircleicon {
+	top: 450px !important;
+	position: absolute !important;
+	left: 869px;
+	width: 60px;
+	height: 60px;
+	background:url(skins/coursescircleicon.png);
+	background-size:cover;
+}
+
+
+#cursos_especializados_con_las_t_cnicas_actuales__del_mercado {
+	top: 450px;
+	left: 950px;
+	width: 644px;
+	height: 75px;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#businesscircleicon {
+	top: 585px !important;
+	position: absolute !important;
+	left: 869px;
+	width: 60px;
+	height: 60px;
+	background:url(skins/businesscircleicon.png);
+	background-size:cover;
+}
+
+
+#programa_de_acompa_amiento_empresarial__gratuito_al_terminar_un_curso {
+	top: 584px;
+	left: 950px;
+	width: 583px;
+	height: 75px;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#handscircleicon {
+	top: 718px !important;
+	position: absolute !important;
+	left: 869px;
+	width: 60px;
+	height: 60px;
+	background:url(skins/handscircleicon.png);
+	background-size:cover;
+}
+
+
+#no_te_abandonamos__te_ayudamos_a_iniciar_tu__negocio_en_la_industria_de_la_belleza {
+	top: 718px;
+	left: 950px;
+	width: 606px;
+	height: 75px;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#010101;
+}
+
+
+#somos_tu_mejor_aliado {
+	top: 356px;
+	left: 940px;
+	width: 492px;
+	height: 56px;
+	font-family: Roboto;
+	font-size: 40px;
+	text-align: left;
+	color:#444343;
+}
+
+#areas_profesionalizacion {
+	top: 1080px;
+	left: -13px;
+	width: 1933px;
+	height: 778.5px;
+}
+
+#rectangle_10 {
+	opacity:0.4;
+	top: 0px;
+	left: 0px;
+	width: 1933px;
+	height: 423px;
+	background:rgba(246,80,171,102);
+}
+
+
+#s__un_profesional_de_la_belleza {
+	top: 125px;
+	left: 540px;
+	width: 851px;
+	height: 84px;
+	font-family: Roboto;
+	font-size: 60px;
+	text-align: center;
+	color:#ffffff;
+}
+
+#estilismocard {
+	top: 326px;
+	left: 117px;
+	width: 380px;
+	height: 452.5px;
+}
+
+#rectangle_6 {
+	top: 0px;
+	left: 0px;
+	width: 380px;
+	height: 452px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#estilismo2 {
+	top: 1px !important;
+	position: absolute !important;
+	left: 1px;
+	width: 378px;
+	height: 212px;
+	background:url(skins/estilismo2.png);
+	background-size:cover;
+}
+
+
+#estilismo {
+	top: 242px;
+	left: 34px;
+	width: 105px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#e40680;
+}
+
+
+#certificadoicon {
+	top: 271px !important;
+	position: absolute !important;
+	left: 55px;
+	width: 21px;
+	height: 16px;
+	background:url(skins/certificadoicon.png);
+	background-size:cover;
+}
+
+
+#_15_cursos {
+	top: 269px;
+	left: 77px;
+	width: 62px;
+	height: 22px;
+	font-family: Segoe UI;
+	font-size: 14px;
+	text-align: left;
+	color:#b5b5b5;
+}
+
+
+#especial_zate_en_diferentes_t_cnicas {
+	top: 298px;
+	left: 50px;
+	width: 302px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 16px;
+	text-align: left;
+	line-height: 16px;
+	color:#b5b5b5;
+}
+
+
+#obt_n_toda_la_experiencia_de_profesionales_expertos {
+	top: 338px;
+	left: 50px;
+	width: 302px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 16px;
+	text-align: left;
+	line-height: 16px;
+	color:#b5b5b5;
+}
+
+
+#groupicon {
+	top: 422px !important;
+	position: absolute !important;
+	left: 24px;
+	width: 21px;
+	height: 21px;
+	background:url(skins/groupicon.png);
+	background-size:cover;
+}
+
+
+#_2_870_estudiantes {
+	top: 423px;
+	left: 50px;
+	width: 109px;
+	height: 22px;
+	font-family: Segoe UI;
+	font-size: 14px;
+	text-align: left;
+	color:#b5b5b5;
+}
+
+
+#mesageicon {
+	top: 425px !important;
+	position: absolute !important;
+	left: 299px;
+	width: 21px;
+	height: 15.75px;
+	background:url(skins/mesageicon.png);
+	background-size:cover;
+}
+
+
+#_17 {
+	top: 422px;
+	left: 325px;
+	width: 17px;
+	height: 22px;
+	font-family: Segoe UI;
+	font-size: 14px;
+	text-align: left;
+	color:#b5b5b5;
+}
+
+
+#line_2 {
+	top: 411px !important;
+	position: absolute !important;
+	left: 268px;
+	width: 0.5px;
+	height: 42px;
+	background:url(skins/line_2.png);
+	background-size:cover;
+}
+
+
+#line_3 {
+	top: 410px !important;
+	position: absolute !important;
+	left: 1px;
+	width: 379px;
+	height: 0.5px;
+	background:url(skins/line_3.png);
+	background-size:cover;
+}
+
+#cosmetologiacard {
+	top: 326px;
+	left: 557px;
+	width: 380px;
+	height: 452.5px;
+}
+
+#rectangle_7 {
+	top: 0px;
+	left: 0px;
+	width: 380px;
+	height: 452px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#cosmetologia {
+	top: 1px !important;
+	position: absolute !important;
+	left: 1px;
+	width: 378px;
+	height: 212px;
+	background:url(skins/cosmetologia.png);
+	background-size:cover;
+}
+
+
+#cosmetolog_a {
+	top: 242px;
+	left: 35px;
+	width: 154px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#e40680;
+}
+
+
+#certificadoicon_ek1 {
+	top: 271px !important;
+	position: absolute !important;
+	left: 57px;
+	width: 21px;
+	height: 16px;
+	background:url(skins/certificadoicon_ek1.png);
+	background-size:cover;
+}
+
+
+#_15_cursos_ek1 {
+	top: 269px;
+	left: 79px;
+	width: 62px;
+	height: 22px;
+	font-family: Segoe UI;
+	font-size: 14px;
+	text-align: left;
+	color:#b5b5b5;
+}
+
+
+#especial_zate_en_diferentes_t_cnicas_ek1 {
+	top: 298px;
+	left: 52px;
+	width: 302px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 16px;
+	text-align: left;
+	line-height: 16px;
+	color:#b5b5b5;
+}
+
+
+#obt_n_toda_la_experiencia_de_profesionales_expertos_ek1 {
+	top: 338px;
+	left: 52px;
+	width: 302px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 16px;
+	text-align: left;
+	line-height: 16px;
+	color:#b5b5b5;
+}
+
+
+#groupicon_ek1 {
+	top: 422px !important;
+	position: absolute !important;
+	left: 26px;
+	width: 21px;
+	height: 21px;
+	background:url(skins/groupicon_ek1.png);
+	background-size:cover;
+}
+
+
+#_2_870_estudiantes_ek1 {
+	top: 423px;
+	left: 52px;
+	width: 109px;
+	height: 22px;
+	font-family: Segoe UI;
+	font-size: 14px;
+	text-align: left;
+	color:#b5b5b5;
+}
+
+
+#mesageicon_ek1 {
+	top: 425px !important;
+	position: absolute !important;
+	left: 301px;
+	width: 21px;
+	height: 15.75px;
+	background:url(skins/mesageicon_ek1.png);
+	background-size:cover;
+}
+
+
+#_17_ek1 {
+	top: 422px;
+	left: 327px;
+	width: 17px;
+	height: 22px;
+	font-family: Segoe UI;
+	font-size: 14px;
+	text-align: left;
+	color:#b5b5b5;
+}
+
+
+#line_4 {
+	top: 410px !important;
+	position: absolute !important;
+	left: 1px;
+	width: 379px;
+	height: 0.5px;
+	background:url(skins/line_4.png);
+	background-size:cover;
+}
+
+
+#line_5 {
+	top: 411px !important;
+	position: absolute !important;
+	left: 268px;
+	width: 0.5px;
+	height: 42px;
+	background:url(skins/line_5.png);
+	background-size:cover;
+}
+
+#esteticacard {
+	top: 326px;
+	left: 997px;
+	width: 380px;
+	height: 452.5px;
+}
+
+#rectangle_8 {
+	top: 0px;
+	left: 0px;
+	width: 380px;
+	height: 452px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#spa2 {
+	top: 1px !important;
+	position: absolute !important;
+	left: 1px;
+	width: 378px;
+	height: 212px;
+	background:url(skins/spa2.png);
+	background-size:cover;
+}
+
+
+#spa2_ek1 {
+	top: 1px !important;
+	position: absolute !important;
+	left: 1px;
+	width: 378px;
+	height: 212px;
+	background:url(skins/spa2_ek1.png);
+	background-size:cover;
+}
+
+
+#est_tica {
+	top: 242px;
+	left: 34px;
+	width: 95px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#e40680;
+}
+
+
+#certificadoicon_ek2 {
+	top: 271px !important;
+	position: absolute !important;
+	left: 57px;
+	width: 21px;
+	height: 16px;
+	background:url(skins/certificadoicon_ek2.png);
+	background-size:cover;
+}
+
+
+#_15_cursos_ek2 {
+	top: 269px;
+	left: 79px;
+	width: 62px;
+	height: 22px;
+	font-family: Segoe UI;
+	font-size: 14px;
+	text-align: left;
+	color:#b5b5b5;
+}
+
+
+#especial_zate_en_diferentes_t_cnicas_ek2 {
+	top: 298px;
+	left: 52px;
+	width: 302px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 16px;
+	text-align: left;
+	line-height: 16px;
+	color:#b5b5b5;
+}
+
+
+#obt_n_toda_la_experiencia_de_profesionales_expertos_ek2 {
+	top: 338px;
+	left: 52px;
+	width: 302px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 16px;
+	text-align: left;
+	line-height: 16px;
+	color:#b5b5b5;
+}
+
+
+#groupicon_ek2 {
+	top: 422px !important;
+	position: absolute !important;
+	left: 26px;
+	width: 21px;
+	height: 21px;
+	background:url(skins/groupicon_ek2.png);
+	background-size:cover;
+}
+
+
+#_2_870_estudiantes_ek2 {
+	top: 423px;
+	left: 52px;
+	width: 109px;
+	height: 22px;
+	font-family: Segoe UI;
+	font-size: 14px;
+	text-align: left;
+	color:#b5b5b5;
+}
+
+
+#mesageicon_ek2 {
+	top: 425px !important;
+	position: absolute !important;
+	left: 301px;
+	width: 21px;
+	height: 15.75px;
+	background:url(skins/mesageicon_ek2.png);
+	background-size:cover;
+}
+
+
+#_17_ek2 {
+	top: 422px;
+	left: 327px;
+	width: 17px;
+	height: 22px;
+	font-family: Segoe UI;
+	font-size: 14px;
+	text-align: left;
+	color:#b5b5b5;
+}
+
+
+#line_6 {
+	top: 410px !important;
+	position: absolute !important;
+	left: 1px;
+	width: 379px;
+	height: 0.5px;
+	background:url(skins/line_6.png);
+	background-size:cover;
+}
+
+
+#line_7 {
+	top: 411px !important;
+	position: absolute !important;
+	left: 268px;
+	width: 0.5px;
+	height: 42px;
+	background:url(skins/line_7.png);
+	background-size:cover;
+}
+
+#manicurapedicuracard {
+	top: 326px;
+	left: 1437px;
+	width: 380px;
+	height: 452.5px;
+}
+
+#rectangle_9 {
+	top: 0px;
+	left: 0px;
+	width: 380px;
+	height: 452px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#manicura {
+	top: 1px !important;
+	position: absolute !important;
+	left: 1px;
+	width: 378px;
+	height: 212px;
+	background:url(skins/manicura.png);
+	background-size:cover;
+}
+
+
+#manicura_y_pedicura {
+	top: 242px;
+	left: 34px;
+	width: 223px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#e40680;
+}
+
+
+#certificadoicon_ek3 {
+	top: 271px !important;
+	position: absolute !important;
+	left: 57px;
+	width: 21px;
+	height: 16px;
+	background:url(skins/certificadoicon_ek3.png);
+	background-size:cover;
+}
+
+
+#_15_cursos_ek3 {
+	top: 269px;
+	left: 79px;
+	width: 62px;
+	height: 22px;
+	font-family: Segoe UI;
+	font-size: 14px;
+	text-align: left;
+	color:#b5b5b5;
+}
+
+
+#especial_zate_en_diferentes_t_cnicas_ek3 {
+	top: 298px;
+	left: 52px;
+	width: 302px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 16px;
+	text-align: left;
+	line-height: 16px;
+	color:#b5b5b5;
+}
+
+
+#obt_n_toda_la_experiencia_de_profesionales_expertos_ek3 {
+	top: 338px;
+	left: 52px;
+	width: 302px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 16px;
+	text-align: left;
+	line-height: 16px;
+	color:#b5b5b5;
+}
+
+
+#groupicon_ek3 {
+	top: 422px !important;
+	position: absolute !important;
+	left: 26px;
+	width: 21px;
+	height: 21px;
+	background:url(skins/groupicon_ek3.png);
+	background-size:cover;
+}
+
+
+#_2_870_estudiantes_ek3 {
+	top: 423px;
+	left: 52px;
+	width: 109px;
+	height: 22px;
+	font-family: Segoe UI;
+	font-size: 14px;
+	text-align: left;
+	color:#b5b5b5;
+}
+
+
+#mesageicon_ek3 {
+	top: 425px !important;
+	position: absolute !important;
+	left: 301px;
+	width: 21px;
+	height: 15.75px;
+	background:url(skins/mesageicon_ek3.png);
+	background-size:cover;
+}
+
+
+#_17_ek3 {
+	top: 422px;
+	left: 327px;
+	width: 17px;
+	height: 22px;
+	font-family: Segoe UI;
+	font-size: 14px;
+	text-align: left;
+	color:#b5b5b5;
+}
+
+
+#line_8 {
+	top: 410px !important;
+	position: absolute !important;
+	left: 1px;
+	width: 379px;
+	height: 0.5px;
+	background:url(skins/line_8.png);
+	background-size:cover;
+}
+
+
+#line_9 {
+	top: 411px !important;
+	position: absolute !important;
+	left: 268px;
+	width: 0.5px;
+	height: 42px;
+	background:url(skins/line_9.png);
+	background-size:cover;
+}
+
+#home {
+	top: -104px;
+	left: 0px;
+	width: 1920px;
+	height: 1184px;
+}
+
+#hero_1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 1920px;
+	height: 1184px;
+	background:url(skins/hero_1.png);
+	background-size:cover;
+}
+
+
+#rectangle_3 {
+	opacity:0.85098039215686;
+	top: 203px;
+	left: 0px;
+	width: 1920px;
+	height: 981px;
+	background:rgba(28,14,24,217);
+}
+
+
+#aprende_de_los_expertos {
+	top: 526px;
+	left: 207px;
+	width: 565px;
+	height: 71px;
+	font-family: Roboto;
+	font-size: 50px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#convi_rtete_en_un_profesional_de_la_belleza_junto_a__personas_experimentadas_y_un_programa_de_estudio_hecho_a_tu_medida {
+	top: 602px;
+	left: 207px;
+	width: 714px;
+	height: 104px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 26px;
+	text-align: left;
+	line-height: 26px;
+	color:#b7b7b7;
+}
+
+
+#la_belleza_de_emprender {
+	top: 1087px;
+	left: 1520px;
+	width: 261px;
+	height: 42px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	line-height: 20px;
+	color:#b7b7b7;
+}
+
+#registro_form_home {
+	top: 321px;
+	left: 1092px;
+	width: 545px;
+	height: 426px;
+}
+
+#rectangle_4 {
+	top: 0px;
+	left: 0px;
+	width: 545px;
+	height: 426px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(255,255,255,255);
+}
+
+
+#reg_strate {
+	top: 30px;
+	left: 31px;
+	width: 113px;
+	height: 34px;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#inputreg_1 {
+	opacity:0.30000001192093;
+	top: 89px;
+	left: 31px;
+	width: 473px;
+	height: 51px;
+	-ms-border-radius: 26.5px;
+	-o-border-radius: 26.5px;
+	-moz-border-radius: 26.5px;
+	-webkit-border-radius: 26.5px;
+	border-radius: 26.5px;
+	border: 1px solid #5e5d5d;
+	background:rgba(255,255,255,255);
+}
+
+
+#direcci_n_email {
+	top: 104px;
+	left: 61px;
+	width: 140px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#7b7878;
+}
+
+
+#inputreg_1_ek1 {
+	opacity:0.30000001192093;
+	top: 162px;
+	left: 31px;
+	width: 473px;
+	height: 51px;
+	-ms-border-radius: 26.5px;
+	-o-border-radius: 26.5px;
+	-moz-border-radius: 26.5px;
+	-webkit-border-radius: 26.5px;
+	border-radius: 26.5px;
+	border: 1px solid #5e5d5d;
+	background:rgba(255,255,255,255);
+}
+
+
+#contrase_a {
+	top: 177px;
+	left: 61px;
+	width: 106px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#7b7878;
+}
+
+
+#inputreg_1_ek2 {
+	opacity:0.30000001192093;
+	top: 235px;
+	left: 31px;
+	width: 473px;
+	height: 51px;
+	-ms-border-radius: 26.5px;
+	-o-border-radius: 26.5px;
+	-moz-border-radius: 26.5px;
+	-webkit-border-radius: 26.5px;
+	border-radius: 26.5px;
+	border: 1px solid #5e5d5d;
+	background:rgba(255,255,255,255);
+}
+
+
+#repetir_contrase_a {
+	top: 250px;
+	left: 61px;
+	width: 173px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#7b7878;
+}
+
+
+#rectangle_5 {
+	top: 314px;
+	left: 31px;
+	width: 135px;
+	height: 43px;
+	-ms-border-radius: 21.5px;
+	-o-border-radius: 21.5px;
+	-moz-border-radius: 21.5px;
+	-webkit-border-radius: 21.5px;
+	border-radius: 21.5px;
+	background:rgba(228,6,128,255);
+}
+
+
+#registrar {
+	top: 324px;
+	left: 59px;
+	width: 85px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#navbar {
+	top: 0px;
+	left: 1px;
+	width: 1920px;
+	height: 102px;
+}
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 100px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.79);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.79);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.79);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.79);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.79);
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2 {
+	top: 27px;
+	left: 1670px;
+	width: 159px;
+	height: 43px;
+	-ms-border-radius: 23.5px;
+	-o-border-radius: 23.5px;
+	-moz-border-radius: 23.5px;
+	-webkit-border-radius: 23.5px;
+	border-radius: 23.5px;
+	border: 2px solid #e91887;
+	background:rgba(233,24,135,255);
+}
+
+
+#contactanos_ek1 {
+	top: 40px;
+	left: 1684px;
+	width: 132px;
+	height: 26px;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#inicio {
+	top: 36px;
+	left: 704px;
+	width: 61px;
+	height: 34px;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#cursos {
+	top: 36px;
+	left: 810px;
+	width: 80px;
+	height: 34px;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#programas {
+	top: 36px;
+	left: 935px;
+	width: 121px;
+	height: 34px;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#profesores {
+	top: 36px;
+	left: 1101px;
+	width: 119px;
+	height: 34px;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#loginsidebk {
+	top: 0px !important;
+	position: absolute !important;
+	left: 82px;
+	width: 201px;
+	height: 102px;
+	background:url(skins/loginsidebk.png);
+	background-size:cover;
+}
+
+
+#copyright__2020_all_rights_reserved___design_made_by_inside_team {
+	top: 5486px;
+	left: 575px;
+	width: 776px;
+	height: 37px;
+	font-family: Roboto;
+	font-size: 22px;
+	text-align: left;
+	color:#818181;
+}
+
+
+
+/* Add your custom CSS here */
